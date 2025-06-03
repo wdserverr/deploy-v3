@@ -1,3 +1,7 @@
+# Run the script
+```node index.js```
+
+
 # Deploy Uniswap V3 Script
 
 This package includes a CLI script for deploying the latest Uniswap V3 smart contracts to any EVM (Ethereum Virtual Machine) compatible network.
